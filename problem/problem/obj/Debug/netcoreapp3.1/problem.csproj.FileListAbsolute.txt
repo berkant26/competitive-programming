@@ -1,0 +1,14 @@
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\problem.exe
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\problem.deps.json
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\problem.runtimeconfig.json
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\problem.runtimeconfig.dev.json
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\problem.dll
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\problem.pdb
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\problem.csproj.AssemblyReference.cache
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\problem.AssemblyInfoInputs.cache
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\problem.AssemblyInfo.cs
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\problem.csproj.CoreCompileInputs.cache
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\problem.dll
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\problem.pdb
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\problem.genruntimeconfig.cache
