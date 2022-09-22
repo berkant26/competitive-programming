@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yoube\\source\\repos\\problem\\problem\\SortAnArray.csproj",
-      "projectName": "SortAnArray",
-      "projectPath": "C:\\Users\\yoube\\source\\repos\\problem\\problem\\SortAnArray.csproj",
+      "projectUniqueName": "C:\\Users\\yoube\\source\\repos\\problem\\Subarray-with-given-sum\\Subarray-with-given-sum.csproj",
+      "projectName": "Subarray-with-given-sum",
+      "projectPath": "C:\\Users\\yoube\\source\\repos\\problem\\Subarray-with-given-sum\\Subarray-with-given-sum.csproj",
       "packagesPath": "C:\\Users\\yoube\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yoube\\source\\repos\\problem\\problem\\obj\\",
+      "outputPath": "C:\\Users\\yoube\\source\\repos\\problem\\Subarray-with-given-sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yoube\\AppData\\Roaming\\NuGet\\NuGet.Config",

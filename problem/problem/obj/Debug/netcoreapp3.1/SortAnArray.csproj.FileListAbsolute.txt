@@ -1,0 +1,14 @@
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\SortAnArray.exe
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\SortAnArray.deps.json
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\SortAnArray.runtimeconfig.json
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\SortAnArray.runtimeconfig.dev.json
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\SortAnArray.dll
+C:\Users\yoube\source\repos\problem\problem\bin\Debug\netcoreapp3.1\SortAnArray.pdb
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\SortAnArray.csproj.AssemblyReference.cache
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\SortAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\SortAnArray.AssemblyInfoInputs.cache
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\SortAnArray.AssemblyInfo.cs
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\SortAnArray.csproj.CoreCompileInputs.cache
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\SortAnArray.dll
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\SortAnArray.pdb
+C:\Users\yoube\source\repos\problem\problem\obj\Debug\netcoreapp3.1\SortAnArray.genruntimeconfig.cache
