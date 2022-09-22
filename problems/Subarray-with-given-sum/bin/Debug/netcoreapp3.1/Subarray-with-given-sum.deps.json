@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Subarray-with-given-sum/1.0.0": {
+        "runtime": {
+          "Subarray-with-given-sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Subarray-with-given-sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

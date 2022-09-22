@@ -1,0 +1,14 @@
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\bin\Debug\netcoreapp3.1\Subarray-with-given-sum.exe
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\bin\Debug\netcoreapp3.1\Subarray-with-given-sum.deps.json
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\bin\Debug\netcoreapp3.1\Subarray-with-given-sum.runtimeconfig.json
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\bin\Debug\netcoreapp3.1\Subarray-with-given-sum.runtimeconfig.dev.json
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\bin\Debug\netcoreapp3.1\Subarray-with-given-sum.dll
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\bin\Debug\netcoreapp3.1\Subarray-with-given-sum.pdb
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\obj\Debug\netcoreapp3.1\Subarray-with-given-sum.csproj.AssemblyReference.cache
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\obj\Debug\netcoreapp3.1\Subarray-with-given-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\obj\Debug\netcoreapp3.1\Subarray-with-given-sum.AssemblyInfoInputs.cache
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\obj\Debug\netcoreapp3.1\Subarray-with-given-sum.AssemblyInfo.cs
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\obj\Debug\netcoreapp3.1\Subarray-with-given-sum.csproj.CoreCompileInputs.cache
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\obj\Debug\netcoreapp3.1\Subarray-with-given-sum.dll
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\obj\Debug\netcoreapp3.1\Subarray-with-given-sum.pdb
+C:\Users\yoube\source\repos\problem\Subarray-with-given-sum\obj\Debug\netcoreapp3.1\Subarray-with-given-sum.genruntimeconfig.cache
