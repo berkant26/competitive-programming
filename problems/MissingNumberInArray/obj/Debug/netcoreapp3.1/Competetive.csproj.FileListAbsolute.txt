@@ -1,0 +1,14 @@
+C:\Users\yoube\source\repos\Competetive\Competetive\bin\Debug\netcoreapp3.1\Competetive.exe
+C:\Users\yoube\source\repos\Competetive\Competetive\bin\Debug\netcoreapp3.1\Competetive.deps.json
+C:\Users\yoube\source\repos\Competetive\Competetive\bin\Debug\netcoreapp3.1\Competetive.runtimeconfig.json
+C:\Users\yoube\source\repos\Competetive\Competetive\bin\Debug\netcoreapp3.1\Competetive.runtimeconfig.dev.json
+C:\Users\yoube\source\repos\Competetive\Competetive\bin\Debug\netcoreapp3.1\Competetive.dll
+C:\Users\yoube\source\repos\Competetive\Competetive\bin\Debug\netcoreapp3.1\Competetive.pdb
+C:\Users\yoube\source\repos\Competetive\Competetive\obj\Debug\netcoreapp3.1\Competetive.csproj.AssemblyReference.cache
+C:\Users\yoube\source\repos\Competetive\Competetive\obj\Debug\netcoreapp3.1\Competetive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoube\source\repos\Competetive\Competetive\obj\Debug\netcoreapp3.1\Competetive.AssemblyInfoInputs.cache
+C:\Users\yoube\source\repos\Competetive\Competetive\obj\Debug\netcoreapp3.1\Competetive.AssemblyInfo.cs
+C:\Users\yoube\source\repos\Competetive\Competetive\obj\Debug\netcoreapp3.1\Competetive.csproj.CoreCompileInputs.cache
+C:\Users\yoube\source\repos\Competetive\Competetive\obj\Debug\netcoreapp3.1\Competetive.dll
+C:\Users\yoube\source\repos\Competetive\Competetive\obj\Debug\netcoreapp3.1\Competetive.pdb
+C:\Users\yoube\source\repos\Competetive\Competetive\obj\Debug\netcoreapp3.1\Competetive.genruntimeconfig.cache
