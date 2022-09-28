@@ -1,0 +1,14 @@
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.exe
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.deps.json
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.runtimeconfig.json
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.runtimeconfig.dev.json
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.dll
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\bin\Debug\netcoreapp3.1\NumberOfGoodPairs.pdb
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.csproj.AssemblyReference.cache
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.AssemblyInfoInputs.cache
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.AssemblyInfo.cs
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.csproj.CoreCompileInputs.cache
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.dll
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.pdb
+C:\Users\yoube\source\repos\NumberOfGoodPairs\NumberOfGoodPairs\obj\Debug\netcoreapp3.1\NumberOfGoodPairs.genruntimeconfig.cache
